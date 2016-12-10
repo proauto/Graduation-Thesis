@@ -2,7 +2,7 @@ Graduation Thesis
 ========
 
 ## Image
-![Image](./images/image2.png) 
+![Image](./images/image1.png) 
 
 <br/>
 한양대학교 미래자동차공학과 학사 졸업 논문
